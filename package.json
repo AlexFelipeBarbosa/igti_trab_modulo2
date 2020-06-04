@@ -1,0 +1,19 @@
+{
+  "name": "trabalhopratico",
+  "version": "1.0.0",
+  "description": "Trabalho Prático do Módulo 2 - BootCamp IGTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexFelipeBarbosa/igti_trab_modulo2.git"
+  },
+  "author": "Alex Felipe Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexFelipeBarbosa/igti_trab_modulo2/issues"
+  },
+  "homepage": "https://github.com/AlexFelipeBarbosa/igti_trab_modulo2#readme"
+}
